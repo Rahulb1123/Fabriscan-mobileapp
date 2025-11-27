@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FabriScan</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hello_wave">Hello,👋</string>
+    <string name="welcome_fabriscan">Welcome to FabriScan</string>
+    <string name="profile_image">Profile image</string>
+    <string name="search_icon">Search icon</string>
+    <string name="search">Search</string>
+    <string name="cloths_materials">Cloths Materials</string>
+    <string name="view_all">View all</string>
+    <string name="silk">Silk</string>
+    <string name="cotton">Cotton</string>
+    <string name="wool">Wool</string>
+    <string name="card_list">Clothing items</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_profile">Profile</string>
+    <string name="category">Category</string>
+    <string name="search_icon_content_desc">Search Icon</string>
+    <string name="user_name">Narendra Modi</string>
+    <string name="edit_name">Edit name</string>
+    <string name="camera_icon">Camera icon</string>
+    <string name="cloud_decoration">Cloud decoration</string>
+    <string name="profile_content_placeholder">Profile content will be displayed here</string>
+    <string name="ask_fabriscan_assistant">Ask FabriScan Assistant</string>
+    <string name="chatbot_fab_description">Ask FabriScan Assistant</string>
+</resources>

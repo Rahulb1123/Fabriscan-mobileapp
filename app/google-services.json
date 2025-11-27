@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365032155759",
+    "project_id": "fabriscan-ce0ac",
+    "storage_bucket": "fabriscan-ce0ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365032155759:android:a8ba87ce0fbbe625bbbb9a",
+        "android_client_info": {
+          "package_name": "com.example.fabriscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwWX311Zwiy-6XNu06BRnFarxVt5TyyCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
